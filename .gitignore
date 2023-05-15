@@ -37,3 +37,7 @@ env/
 # OS generated files
 .DS_Store
 Thumbs.db
+
+__pycache__
+.vscode/
+scrapy_env/
